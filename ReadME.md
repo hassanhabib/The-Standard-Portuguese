@@ -11,7 +11,7 @@ Junte-se a nós no Discord:
   - [0.0 Teoria](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/0.0%20The%20Theory.md#00-the-theory)
     - [0.0.0 Introdução](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/0.0%20The%20Theory.md#000-introduction)
     - [0.0.1 Encontrando respostas](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/0.0%20The%20Theory.md#001-finding-answers)
-    - [0.0.2 Tri-Natureza](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/0.0%20The%20Theory.md#002-tri-nature)
+    - [0.0.2 Tríade da Natureza](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/0.0%20The%20Theory.md#002-tri-nature)
       - [0.0.2.0 Propósito](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/0.0%20The%20Theory.md#0020-purpose)
       - [0.0.2.1 Dependências](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/0.0%20The%20Theory.md#0021-dependency)
       - [0.0.2.2 Exposição](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/0.0%20The%20Theory.md#0022-exposure)
